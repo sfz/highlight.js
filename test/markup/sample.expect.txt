@@ -1,0 +1,2 @@
+<span class="hljs-keyword">&lt;region&gt;</span>
+<span class="hljs-built_in">sample</span>=path/to/file.wav

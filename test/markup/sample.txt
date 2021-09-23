@@ -1,0 +1,2 @@
+<region>
+sample=path/to/file.wav
